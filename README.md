@@ -19,10 +19,11 @@ Playing Chess ♟️
 Discussing new Tech Ideas 💡
 
 📫 Connect with Me
+
 LinkedIn: https://www.linkedin.com/in/devanshu-gupta-917aa32a1/
 
 Email: 2devanshugupta@gmail.com
 
-Portfolio Website: https://2devanshu.netlify.app/
+Portfolio Website: https://devanshugupta.xyz/
 
 
