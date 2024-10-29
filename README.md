@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devanshu Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Turning Ideas into Code | Sharing My Growth</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshu6738&label=Profile%20views&color=0e75b6&style=flat" alt="devanshu6738" /> </p>
 
@@ -7,18 +7,26 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Music player like Spotify**
+- 🔭 I’m currently working on [Music player like Spotify](https://github.com/devanshu6738/music-player)
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 👯 I’m looking to collaborate on **npm**
+- 👯 I’m looking to collaborate on [npm](https://www.npmjs.com/package/verifyotpemail)
 
 - 👨‍💻 All of my projects are available at [www.devanshugupta.xyz](www.devanshugupta.xyz)
 
 - 📫 How to reach me **devanshugupta2@outlook.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/devanshugupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devanshugupta" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/devanshu-gupta-917aa32a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devanshu-gupta-917aa32a1/" height="30" width="40" /></a>
+<a href="https://instagram.com/devanshu__2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devanshu__2" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/2devanshu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="2devanshu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
