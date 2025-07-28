@@ -7,14 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Music player like Spotify](https://github.com/devanshu6738/music-player)
-
-- 🌱 I’m currently learning **Reactjs**
-
-- 👯 I’m looking to collaborate on [npm](https://www.npmjs.com/package/verifyotpemail)
-
-- 👨‍💻 All of my projects are available at [www.devanshugupta.xyz](www.devanshugupta.xyz)
-
 - 📫 How to reach me **devanshugupta2@outlook.com**
 
 ### Blogs posts
