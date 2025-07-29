@@ -29,4 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devanshu6738&show_icons=true&locale=en" alt="devanshu6738" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devanshu6738&" alt="devanshu6738" /></p>
-<p><img align="center" src="https://api.githubtrends.io/user/svg/devanshu6738/langs?time_range=one_year&use_percent=True&loc_metric=changed&theme=dark" alt="devanshu6738" /></p>
+
